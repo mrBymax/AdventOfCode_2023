@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/federicobertossi/Desktop/Documents/Projects/AdventOfCode_2023/1",
+      "program": "/Users/federicobertossi/Desktop/Documents/Projects/AdventOfCode_2023/1/build/Debug/outDebug"
+    }
+  ]
+}
