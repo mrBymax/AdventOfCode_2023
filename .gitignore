@@ -1,0 +1,29 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# Build directory
+build/
+
+# Dependency directories
+dependencies/
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.xcodeproj
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
