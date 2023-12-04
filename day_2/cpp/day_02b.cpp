@@ -12,17 +12,8 @@ int main(int argc, char * argv[]) {
 
   std::string line;
   std::fstream file(input);
-
-  std::vector<std::string> numbers;
-  numbers.push_back("one");
-  numbers.push_back("two");
-  numbers.push_back("three");
-  numbers.push_back("four");
-  numbers.push_back("five");
-  numbers.push_back("six");
-  numbers.push_back("seven");
-  numbers.push_back("eight");
-  numbers.push_back("nine");
+  
+  std::vector<std::string> numbers  {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
   std::vector<int> calibration_values;
   while(std::getline(file, line)) {

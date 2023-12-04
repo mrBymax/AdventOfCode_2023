@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/federicobertossi/Desktop/Documents/Projects/AdventOfCode_2023/1",
-      "program": "/Users/federicobertossi/Desktop/Documents/Projects/AdventOfCode_2023/1/build/Debug/outDebug"
+      "cwd": "/Users/federicobertossi/Desktop/Documents/Projects/AdventOfCode_2023/day_2/cpp",
+      "program": "/Users/federicobertossi/Desktop/Documents/Projects/AdventOfCode_2023/day_2/cpp/build/Debug/outDebug"
     }
   ]
 }
